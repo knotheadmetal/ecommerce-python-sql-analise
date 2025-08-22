@@ -2,7 +2,7 @@
 
 Este projeto foi cuidadosamente elaborado para ser um guia completo e acessível para iniciantes no mundo da análise de dados. Ele demonstra, passo a passo, como realizar uma análise abrangente de dados de vendas de um e-commerce fictício, utilizando apenas ferramentas gratuitas e operando localmente em sua máquina. Não há necessidade de serviços em nuvem pagos, configurações complexas de API ou informações de cartão de crédito.
 
-## 📊 Descrição Detalhada do Projeto
+## 📊 Descrição Detalhada do Projeto 
 
 O objetivo principal deste projeto é simular um cenário real de análise de dados de vendas. Você aprenderá a:
 
